@@ -25,3 +25,7 @@ ascii_alphabet = [
 ## Примеры 
 ![изображение](https://github.com/user-attachments/assets/5d6ad5ab-d752-4af3-9c71-60ec43b478af)
 
+Вывод видео в терминал
+
+![2025-01-2214-22-08-ezgif com-optimize](https://github.com/user-attachments/assets/67d363b1-384c-47cd-9d49-2ccdc21987d3)
+
